@@ -1,0 +1,2 @@
+# EmptyStaticWebSite
+Empty Static WebSite
